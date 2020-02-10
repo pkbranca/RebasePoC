@@ -4,6 +4,7 @@
 6 veces esta vez no hay nada
 6 veces esta vez no hay nada
 6 veces esta vez no hay nada
+<<<<<<< HEAD
 7 veces esta vez no hay nada
 7 veces esta vez no hay nada
 7 veces esta vez no hay nada
@@ -15,3 +16,7 @@ Linea 14
 
 linea 15
 linea 17
+=======
+6 veces esta vez no hay nada
+6 veces esta vez no hay nada
+>>>>>>> parent of b524589... 7 veces
